@@ -17,6 +17,8 @@ Additionally, the school board has notified Maria and her supervisor that the st
 - % Passing Reading = 86 (before data cleanup) to 85.7 (after data cleanup)
 - % Overall Passing = 65 (before data cleanup) to 64.9 (after data cleanup)
 
+![alt tag](https://github.com/elrvra/school-district-analysis/blob/main/Resources/before_after_data_cleanup.png)
+
 ## Summary:
 
 ### Statement that summarizes four changes to the school district analysis after reading & math scores have been replaced
